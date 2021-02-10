@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndStudy</string>
+    <string name="search">search</string>
+    <string name="share">share</string>
+    <string name="settings">settings</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="send_message_with_eventbus">send message with EventBus</string>
+    <string name="send_message_in_a_new_thread">send message in a new thread</string>
+    <string name="send_message_in_another_activity">send message in another activity</string>
+    <string name="no_message">no message</string>
+    <string name="register">register</string>
+    <string name="unregister">unregister</string>
+    <string name="send_sticky_message">send sticky message</string>
+</resources>
